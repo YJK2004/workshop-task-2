@@ -1,6 +1,6 @@
 # workshop-task-2
 
-URL: https://yjk2004.github.io/workshop-task-2-2-2/
+URL: https://yjk2004.github.io/workshop-task-2/
 
 ### new item from p5.js documentation
 - typography: I wanted to make a "stop" sign
